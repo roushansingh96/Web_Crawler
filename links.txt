@@ -1,0 +1,12 @@
+//www.youtube.com/yt/about/
+//www.youtube.com/yt/creators/
+//www.youtube.com/yt/dev/
+/new
+/t/contact_us
+//www.youtube.com/yt/policyandsafety/
+//www.youtube.com/yt/advertise/
+https://www.google.com/intl/en/policies/privacy/
+//www.youtube.com/yt/press/
+//www.youtube.com/yt/copyright/
+/t/terms
+https://www.google.com/support/legal/answer/3110420
